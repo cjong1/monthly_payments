@@ -1,0 +1,28 @@
+body {
+	padding: 25px;
+	background-image: url("http://www.thecoolist.com/wp-content/uploads/2014/01/Glass-Garden-Shed-by-Ville-Hara-and-Linda-Bergroth-1.jpg");
+	background-size: cover;
+}
+
+.form {
+	width: 225px;
+	background-color: lightgray;
+	float: left;
+	margin: auto;
+}
+
+	.form-group {
+		margin-bottom: 15px;
+	}
+
+#results {
+	background-color: lightgray;
+	width: 250px;
+	float: left;
+	padding: 15px;
+	margin-left: 50px;
+}
+
+	td {
+		background-color: white;
+	}
