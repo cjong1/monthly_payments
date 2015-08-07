@@ -80,7 +80,6 @@ $("form").on("submit", function(event){
 						<td>$"+total+"</td>\
 					</tr>\
 				</table>");
-
 		},
 		error: function(data) {
 			console.log(data);
